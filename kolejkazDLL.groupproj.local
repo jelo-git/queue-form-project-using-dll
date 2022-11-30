@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.694,C:\Users\batog\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=C:\Users\batog\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2022.11.13 19:53:48.293,C:\Users\batog\Documents\Embarcadero\Studio\Projects\usingdll\kolejkazDLL.groupproj=C:\Users\batog\Documents\Embarcadero\Studio\Projects\usingdll\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\batog\Documents\Embarcadero\Studio\Projects\usingdll\Project3.dproj"/>
+	</Default.Personality>
+</BorlandProject>

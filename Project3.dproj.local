@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.510,C:\Users\batog\Documents\Embarcadero\Studio\Projects\usingdll\QueueModule.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,C:\Users\batog\Documents\Embarcadero\Studio\Projects\Unit5.pas=C:\Users\batog\Documents\Embarcadero\Studio\Projects\QueueModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,=C:\Users\batog\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,C:\Users\batog\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\batog\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,=C:\Users\batog\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
